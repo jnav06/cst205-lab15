@@ -27,6 +27,3 @@ def main(): # I was not in class on Monday :( so i am reusing some old fun facts
     </html>
 
   """
-
-if __name__ == "__main__":
-    app.run(debug = True)

@@ -8,6 +8,3 @@ app = Flask(__name__)
 
 def main():
    return render_template("template-task3.html")
-
-if __name__ == "__main__":
-    app.run(debug = True)
